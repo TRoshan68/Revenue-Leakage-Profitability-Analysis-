@@ -1,0 +1,13 @@
+ProductKey,ProductName,Category
+P001,Laptop,Electronics
+P002,Mobile,Electronics
+P003,Tablet,Electronics
+P004,Headphones,Electronics
+P005,Chair,Furniture
+P006,Desk,Furniture
+P007,Cabinet,Furniture
+P008,Printer Paper,Office Supplies
+P009,Notebook,Office Supplies
+P010,Marker Set,Office Supplies
+P011,Monitor,Electronics
+P012,Keyboard,Electronics
